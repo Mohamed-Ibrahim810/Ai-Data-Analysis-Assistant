@@ -8,7 +8,7 @@ Data Analysis Web App
 
 A powerful web application that helps users analyze and transform their datasets with the assistance of Google's Gemini AI. This tool allows users to upload CSV or Excel files, explore data, ask questions in natural language, transform data with various operations, and download the processed results.
 
-🌐 **Try it now**: [Access the app on Streamlit Cloud](your-app-url-here)
+🌐 **Try it now**: [Access the app on Streamlit Cloud](https://ai-data-analysis-assistant-5hpawoeffw2hlq6x6prqcc.streamlit.app/)
 
 📋 Table of Contents
 
@@ -66,7 +66,7 @@ A powerful web application that helps users analyze and transform their datasets
 
 The easiest way to use the app is through Streamlit Cloud:
 
-1. Visit [your-app-url-here](your-app-url-here)
+1. Visit [your-app-url-here](https://ai-data-analysis-assistant-5hpawoeffw2hlq6x6prqcc.streamlit.app/)
 2. No installation required - just upload your data and start analyzing!
 3. The app runs in your browser and works on any device
 
@@ -88,7 +88,7 @@ If you prefer to run the app locally:
    cd data-analysis-web-app
    ```
 
-2. Create a virtual environment (recommended):
+2. Create a virtual environment
 
    ```bash
    python -m venv venv
@@ -117,7 +117,7 @@ If you prefer to run the app locally:
 
 ### Cloud Version
 
-1. Navigate to [your-app-url-here](your-app-url-here) in your web browser
+1. Navigate to [your-app-url-here](https://ai-data-analysis-assistant-5hpawoeffw2hlq6x6prqcc.streamlit.app/) in your web browser
 2. Upload your dataset and start analyzing!
 
 ### Local Version
@@ -210,8 +210,6 @@ data-analysis-web-app/
 ├── README.md                   # Project overview (this file)
 ├── DOCUMENTATION.md            # Technical documentation
 ├── USER_GUIDE.md               # User guide with examples
-├── .streamlit/                 # Streamlit configuration
-│   └── secrets.toml.example    # Example secrets file
 └── sample_data/                # Sample datasets for testing
     ├── README.md               # Information about sample datasets
     └── sales_sample.csv        # Sample sales dataset
@@ -242,12 +240,6 @@ You can set up your API key using one of these methods:
 
    ```
    GOOGLE_API_KEY=your_api_key_here
-   ```
-
-3. **Streamlit Secrets** (recommended for deployment):
-   Create a `.streamlit/secrets.toml` file with:
-   ```toml
-   GOOGLE_API_KEY = "your_api_key_here"
    ```
 
 To obtain a Google API key:
