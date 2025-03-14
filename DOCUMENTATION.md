@@ -82,8 +82,6 @@ The application uses a central configuration dictionary (`CONFIG`) to manage set
 CONFIG = {
     'MAX_FILE_SIZE': 100 * 1024 * 1024,  # 100MB
     'PREVIEW_ROWS': 5,
-    'LARGE_DF_THRESHOLD': 10000,
-    'EXCEL_THRESHOLD': 5000,
     'ALLOWED_EXTENSIONS': ['.csv', '.xlsx'],
     'TYPE_MAPPING': {
         'int': 'int64',
@@ -284,7 +282,6 @@ The application includes error handling throughout to provide a robust user expe
 Several optimizations are implemented to handle large datasets efficiently:
 
 - Data loading is cached to prevent redundant processing
-- Large DataFrames use different download methods
 - Data previews show limited rows to reduce memory usage
 - Transformation operations are applied in-place when possible
 
@@ -327,7 +324,7 @@ The application is deployed on Streamlit Cloud, making it accessible to users wi
 
 #### Accessing the App:
 
-- Production URL: [your-app-url-here](your-app-url-here)
+- Production URL: [Ai-Data-analysis-Assistant](https://ai-data-analysis-assistant-5hpawoeffw2hlq6x6prqcc.streamlit.app/)
 - No authentication required
 - Works on all modern web browsers
 - Responsive design for desktop and mobile devices
