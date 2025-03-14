@@ -62,7 +62,7 @@ This tool allows users to upload CSV or Excel files, explore data, ask questions
 
 The easiest way to use the app is through Streamlit Cloud:
 
-1. Visit [your-app-url-here](https://ai-data-analysis-assistant-5hpawoeffw2hlq6x6prqcc.streamlit.app/)
+1. Visit [Ai-Data-Analysis-Assistant](https://ai-data-analysis-assistant-5hpawoeffw2hlq6x6prqcc.streamlit.app/)
 2. No installation required - just upload your data and start analyzing!
 3. The app runs in your browser and works on any device
 
@@ -113,7 +113,7 @@ If you prefer to run the app locally:
 
 ### Cloud Version
 
-1. Navigate to [your-app-url-here](https://ai-data-analysis-assistant-5hpawoeffw2hlq6x6prqcc.streamlit.app/) in your web browser
+1. Navigate to [Ai-Data-Analysis-Assistant](https://ai-data-analysis-assistant-5hpawoeffw2hlq6x6prqcc.streamlit.app/) in your web browser
 2. Upload your dataset and start analyzing!
 
 ### Local Version
@@ -206,6 +206,7 @@ data-analysis-web-app/
 ├── README.md                   # Project overview (this file)
 ├── DOCUMENTATION.md            # Technical documentation
 ├── USER_GUIDE.md               # User guide with examples
+├── images/                     # Images from the web app
 └── sample_data/                # Sample datasets for testing
     ├── README.md               # Information about sample datasets
     └── sales_sample.csv        # Sample sales dataset
@@ -260,4 +261,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created by [Mohamed Ibrahim Mohamed Aljaria] - [Your GitHub Profile](https://github.com/yourusername)
+Created by [Mohamed Ibrahim Mohamed Aljaria] - [GitHub Profile](https://github.com/Mohamed-Ibrahim810)
