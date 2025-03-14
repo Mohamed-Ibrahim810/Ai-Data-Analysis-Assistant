@@ -16,7 +16,6 @@ A powerful web application that helps users analyze and transform their datasets
   - [Data Analysis](#data-analysis)
   - [Data Transformation](#data-transformation)
   - [Data Management](#data-management)
-- [🎬 Demo](#-demo)
 - [🚀 Installation](#-installation)
   - [Option 1: Use the Cloud Version](#option-1-use-the-cloud-version)
   - [Option 2: Run Locally](#option-2-run-locally)
@@ -55,13 +54,6 @@ A powerful web application that helps users analyze and transform their datasets
 - **Transformation History**: Track all changes made to your dataset
 - **Reset Option**: Revert to the original dataset at any time
 - **Download Options**: Export your transformed data as CSV or Excel files
-
-## 🎬 Demo
-
-![Alt text](images/tab1.png)
-![Alt text](images/tab1.2.png)
-![Alt text](images/tab1.3.png)
-
 
 ## 🚀 Installation
 
