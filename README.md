@@ -58,7 +58,10 @@ A powerful web application that helps users analyze and transform their datasets
 
 ## 🎬 Demo
 
-[Add screenshots or GIFs of your application here]
+![Alt text](images/tab1.png)
+![Alt text](images/tab1.2.png)
+![Alt text](images/tab1.3.png)
+
 
 ## 🚀 Installation
 
