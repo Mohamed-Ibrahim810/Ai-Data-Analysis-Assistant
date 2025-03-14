@@ -28,9 +28,9 @@ This guide will help you get started with the Data Analysis Web App and show you
 
 You can access the Data Analysis Web App in two ways:
 
-### Cloud Access (Recommended)
+### Cloud Access
 
-1. Visit the app at [your-app-url-here](your-app-url-here)
+1. Visit the app at [Ai-Data-analysis-Assistant](https://ai-data-analysis-assistant-5hpawoeffw2hlq6x6prqcc.streamlit.app/)
 2. No installation required
 3. Works on any device with a web browser
 4. Always up to date with the latest features
@@ -273,4 +273,4 @@ After analyzing and transforming your data, navigate to the "Download Data" tab:
 - Consider filtering or sampling your data to reduce size
 - Focus on relevant columns by removing unnecessary ones
 
-If you encounter any other issues, please refer to the project's GitHub repository for support.
+If you encounter any other issues, please email me: mohamed.ibrahim.cshi@gmail.com
