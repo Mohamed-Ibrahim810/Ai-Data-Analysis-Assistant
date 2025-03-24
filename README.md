@@ -80,7 +80,7 @@ If you prefer to run the app locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/data-analysis-web-app.git
+   git clone https://github.com/Mohamed-Ibrahim810/Ai-Data-Analysis-Assistant.git
    cd data-analysis-web-app
    ```
 
