@@ -29,7 +29,7 @@ This document provides technical information about the Data Analysis Web App arc
 
 ## Architecture Overview
 
-The app uses Streamlit for a single-page architecture with tabbed navigation, integrating Google's Generative AI (Gemini) for natural language data analysis.
+The app uses Streamlit for a single-page architecture with tabbed navigation, integrating Google's Gemini AI (Flash 2.0) for natural language data analysis.
 
 **Design Principles:**
 
