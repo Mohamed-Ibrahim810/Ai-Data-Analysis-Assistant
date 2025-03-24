@@ -6,7 +6,7 @@ Data Analysis Web App
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Google Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
 
-A powerful web application that helps users analyze and transform datasets with Google's Gemini AI. Upload CSV or Excel files, explore data, ask questions in natural language, transform data with various operations, and download the processed results.
+A powerful web application that helps users analyze and transform datasets with Google's Gemini AI (Flash 2.0). Upload CSV or Excel files, explore data, ask questions in natural language, transform data with various operations, and download the processed results.
 
 🌐 **Try it now**: [Access the app on Streamlit Cloud](https://ai-data-analysis-assistant-5hpawoeffw2hlq6x6prqcc.streamlit.app/)
 
