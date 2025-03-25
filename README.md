@@ -166,7 +166,3 @@ To obtain a key:
 ## 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-Created by [Mohamed Ibrahim Mohamed] - [GitHub Profile](https://github.com/Mohamed-Ibrahim810)
