@@ -25,7 +25,6 @@ A powerful web application that helps users analyze and transform datasets with 
 - [📁 Project Structure](#-project-structure)
 - [🔧 Technologies Used](#-technologies-used)
 - [🔑 API Key Setup](#-api-key-setup)
-- [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
 ## ✨ Features
@@ -163,10 +162,6 @@ To obtain a key:
 1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
 2. Create a new API key
 3. Use it in one of the methods above
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
