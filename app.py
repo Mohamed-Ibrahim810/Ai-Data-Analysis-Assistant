@@ -212,6 +212,13 @@ if api_key:
                     {df_info}
                     
                     User question: {question}
+                    IMPORTANT INSTRUCTIONS:
+                    - Be concise and accurate.
+                    - Be objective and avoid hallucinating data or results.
+                    - If a question is ambiguous, ask for clarification rather than guessing.
+                    - Explain steps clearly.
+                    - Return all answers in markdown format, with proper code blocks for code suggestions.
+
                     
                     # Create the Gemini client and get response
                     client = genai.GenerativeModel("gemini-2.0-flash")
