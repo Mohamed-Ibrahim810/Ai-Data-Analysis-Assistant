@@ -207,21 +207,21 @@ if api_key:
                     
                     # Create the prompt
                     prompt = f"""
-                    You are a data analysis assistant analyzing a pandas DataFrame.
+                    You are a senior data analyst analyzing a pandas DataFrame.
                     
                     {df_info}
                     
                     User question: {question}
                     
                     IMPORTANT INSTRUCTIONS:
-                    1. Provide a direct, concise answer that gets straight to the point
-                    2. Minimize code in your response - only include code if absolutely necessary
-                    3. If calculations are needed, just show the final results, not the detailed steps
-                    4. Use plain language explanations instead of code whenever possible
-                    5. Keep your answer brief and focused on the specific question
-                    6. If the question cannot be answered with the given data, explain why in 1-2 sentences
+                    1. Provide a direct, concise answer that gets straight to the point.
+                    2. Minimize code in your response unless user ask for it or it's important to get the whole picture.
+                    3. If calculations are needed, just show the final results, not the detailed steps unless user ask for it.
+                    4. Use plain language explanations instead of code whenever possible.
+                    5. write a detail explaintion of your answer.
+                    6. If the question cannot be answered with the given data, explain why in 1-2 sentences.
                     
-                    Your response should be clear and informative but with minimal technical jargon and code.
+                    Your response should be clear and informative.
                     """
                     
                     # Create the Gemini client and get response
